@@ -1,6 +1,6 @@
 # eSurat Project
 
-# About This Project`
+# About This Project
 
 This project is a simple CRUD application focused on practicing file handling using Laravel 12 + ReactJS. The main goal was to build a basic but functional system that handles file uploads, retrieval, updates, and deletion.
 
@@ -16,7 +16,7 @@ This project is a simple CRUD application focused on practicing file handling us
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/SChris-dev/eSurat
 ```
 2. Install dependencies
 # Backend (if Laravel)
